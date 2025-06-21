@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 import { Play } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import PianoKey from "./PianoKey"
-import { happinessAnthem, marioBrosTheme, ,  } from "../lib/songs"
+import { happinessAnthem, marioBrosTheme, pokemonBattleTheme, sebAndMiaTheme } from "../lib/songs"
 
 const notes = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
 const octaves = [3, 4, 5]
